@@ -1,4 +1,4 @@
-<h1 align="center">
+<h2 align="center">
  💫 About Me:
 
 
@@ -41,13 +41,6 @@
  
 ![](https://github-profile-trophy.vercel.app/?username=prantobhowmik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<br/>
-
- 🔝 Top Contributed Repo
-
-
- 
-![](https://github-contributor-stats.vercel.app/api?username=prantobhowmik&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
@@ -55,6 +48,6 @@
 
 ![](https://visitcount.itsvg.in/api?id=prantobhowmik&icon=2&color=12)
 
-</p>
+</h2>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
