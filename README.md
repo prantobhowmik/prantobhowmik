@@ -4,7 +4,7 @@
 
 
 
-🔭 I’m currently Open to work<br>🌱 I’m currently learning fronted development<br>👯 I’m looking to collaborate on realtime projects<br>🤔 I’m looking for help with internship<br>💬 Ask me about Web Development<br>📫 How to reach me: bhowmikpranto@gmail.com<br>😄 Pronouns: Pran.tow<br>⚡ Fun fact: I love Music & Tranveling<br>
+🔭 I’m currently Open to work<br>🌱 I’m currently learning fronted development<br>👯 I’m looking to collaborate on realtime projects<br>🤔 I’m looking for help with internship<br>💬 Ask me about Web Development<br>📫 How to reach me: bhowmikpranto@gmail.com<br>😄 Pronouns: Pran.tow<br>⚡ Fun fact: I love Music & Traveling<br>
 
 
  🌐 Socials:
