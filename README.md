@@ -34,27 +34,22 @@
 
 ---
 
-## GitHub Stats
+## 🧠 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prantobhowmik&theme=dark&hide_border=true&show_icons=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prantobhowmik&theme=dark&hide_border=true" height="150" />
-</p>
+- 🔍 **[Explore](https://github.com/prantobhowmik/explore)** – A movie review web app using Next.js, TypeScript, Tailwind, and TMDB API.
+- 🛍️ **[Class Costumes](https://github.com/prantobhowmik/class-costumes)** – E-commerce site with Stripe checkout built using React, Next.js, and a free store API.
+- ✈️ **[Flight Finder](https://github.com/prantobhowmik/flight-finder)** – Responsive flight search interface using SkyScrapper API and Tailwind CSS.
+- 🧾 **[EmailGen AI (WIP)](https://github.com/prantobhowmik/emailgen-ai)** – AI tool that extracts job descriptions and writes personalized application emails using FastAPI + LLaMA backend.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantobhowmik&theme=dark&hide_border=true&layout=compact" height="150" />
-</p>
+> For more, visit: [My GitHub Repositories](https://github.com/prantobhowmik?tab=repositories)
 
----
-
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prantobhowmik&theme=radical&no-frame=true&margin-w=10" />
-</p>
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=prantobhowmik&icon=2&color=12" />
-</p>
+## 📚 Currently Learning & Building
+
+- Generative AI applications with LLaMA + FastAPI
+- Frontend animation with Framer Motion & GSAP
+- Production-ready apps with authentication & Stripe integration
+- Writing clean, scalable full-stack apps with Next.js 14 App Router
+
