@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Pranto Bhowmik
 
-💻 **Web & Software Developer** | 🎵 Music Lover | 🌍 Traveller
+💻 **Web & Mobile Application Developer** | 🎵 Music Lover | 🌍 Traveller
 
 ---
 
