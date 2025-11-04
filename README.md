@@ -21,7 +21,7 @@
 ## 🛠️ Skills & Technologies
 
 - **Languages:** Python · TypeScript · JavaScript · HTML · CSS
-- **Frameworks / Libraries:** React · Next.js · Node.js · Flask · Tailwind CSS · Bootstrap
+- **Frameworks / Libraries:** FastAPI . React · Next.js · Node.js · Flask · Tailwind CSS · Bootstrap
 - **Data & Analytics:** Pandas · Basic Machine Learning
 - **Tools & Platforms:** Git · GitHub · VS Code · Netlify
 
