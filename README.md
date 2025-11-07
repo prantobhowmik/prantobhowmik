@@ -37,7 +37,7 @@
 ## 🧠 Featured Projects
 
 - 🔍 **[Explore](https://github.com/prantobhowmik/movie)** – A movie review web app built with Next.js, TypeScript, Tailwind CSS, and TMDB API.
-- 🛍️ **[Class Costumes](https://github.com/prantobhowmik/classy-costumes)** – E-commerce platform featuring Stripe checkout, built with React, Next.js, and a free store API.
+- 🛍️ **[Classy Costumes](https://github.com/prantobhowmik/classy-costumes)** – E-commerce platform featuring Stripe checkout, built with React, Next.js, and a free store API.
 
 
 > Explore more of my work in [my GitHub repositories](https://github.com/prantobhowmik?tab=repositories).
