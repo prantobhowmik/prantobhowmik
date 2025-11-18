@@ -14,7 +14,7 @@
 
 I am a software engineer specializing in building reliable, scalable, and user-focused applications.  
 My engineering approach is rooted in clean architecture, strong fundamentals, and continuous learning.  
-I am particularly interested in **backend development**, **web technologies**, and the integration of **AI/ML** into practical systems.
+I am particularly interested in backend development, web technologies, and the integration of AI/ML into practical systems.
 
 I am actively seeking roles where I can contribute to impactful products, collaborate with strong engineering teams, and grow as a developer.
 
@@ -62,6 +62,11 @@ If my profile aligns with what you're looking for, feel free to reach out:
 - **Portfolio:** prantobhowmik.netlify.app  
 - **Email:** bhowmikpranto@gmail.com  
 
+---
+
+<br>
+
 <p align="center">
-  <strong>Available for Software Engineering roles.</strong>
+  <samp>Crafted with clarity and purpose —<br>  
+  <strong>Pranto Bhowmik</strong></samp>
 </p>
