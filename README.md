@@ -1,27 +1,76 @@
-<!-- README.md for https://github.com/prantobhowmik -->
+<!-- Premium Minimal Developer Profile -->
 
-# 👋 Hi there, I'm Pranto Bhowmik
+<h1 align="center">Pranto Bhowmik</h1>
+<p align="center"><strong>Software Engineer · Web & Mobile Application Developer</strong></p>
 
-**Mobile & Web Application Developer | ML & AI Enthusiast**
-
----
-
-## 🚀 About Me
-
-🎯 **Open to Work** | Passionate about building impactful digital products and exploring the frontiers of AI.
-
-- 💻 Currently learning **Machine Learning** and **Generative AI**
-- 🤝 Eager to collaborate on **real-time applications** and innovative projects
-- 🌍 Visit my portfolio: [prantobhowmik.netlify.app](https://prantobhowmik.netlify.app/)
-- 📫 Reach me at: **bhowmikpranto@gmail.com**
-- ⚡ Fun fact: I’m deeply into **music and traveling** — it keeps my creativity alive!
+<p align="center">
+  <a href="https://prantobhowmik.netlify.app/">Portfolio</a> •
+  <a href="mailto:bhowmikpranto@gmail.com">Email</a>
+</p>
 
 ---
 
-## 🛠️ Skills & Technologies
+## About Me
 
-- **Languages:** Python · TypeScript · JavaScript · HTML · CSS
-- **Frameworks / Libraries:** FastAPI · React · Next.js · Node.js · Flask · Tailwind CSS · Bootstrap
+I am a software engineer focused on building clean, maintainable, and scalable applications.  
+My interests lie in **backend engineering**, **modern web development**, and practical applications of **Machine Learning** and **Generative AI**.
+
+I value simplicity, thoughtful architecture, and writing code that is easy to understand and easy to improve.
+
+---
+
+## Skills
+
+### Languages  
+Python · TypeScript · JavaScript · HTML · CSS
+
+### Frameworks & Tools  
+FastAPI · React · Next.js · Node.js · Flask  
+
+### UI & Styling  
+Tailwind CSS · Bootstrap  
+
+---
+
+## Core Strengths
+
+- Strong focus on clean software architecture  
+- Practical experience with modern backend & frontend stacks  
+- Familiar with real-time systems & API design  
+- Active learner in ML & Generative AI fundamentals  
+
+---
+
+## Current Work
+
+- Building AI-powered applications  
+- Improving backend development patterns  
+- Exploring model integration into production-ready systems  
+
+---
+
+## Featured Projects
+
+### 👉 Real-time Web Applications  
+Scalable, event-driven apps built using modern frameworks.
+
+### 👉 AI / ML Experiments  
+Small practical experiments integrating NLP, embeddings, and data processing.
+
+---
+
+## GitHub Overview
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prantobhowmik&show_icons=false&hide_title=true&hide=stars,issues&count_private=true&disable_animations=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantobhowmik&layout=compact&hide_title=true" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Minimal. Professional. Developer-focused.</sub>
+</p>
 - **Data & Analytics:** Pandas · Basic Machine Learning
 - **Tools & Platforms:** Git · GitHub · VS Code · Netlify
 
